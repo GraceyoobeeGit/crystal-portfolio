@@ -11,12 +11,10 @@ function App() {
   return (
     <>
     <Routes basename="/crystal-portfolio">
-      <Switch>
       <Route path="/" element={<Home />} />
       <Route path="/project" element={<Project />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
-      </Switch>
     </Routes>
     </>
   );
