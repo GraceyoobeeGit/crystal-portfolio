@@ -1,0 +1,56 @@
+.experience {
+    width: 100%;
+    padding: 6rem 0;
+    background-color: rgb(19, 19, 19, 0.8);
+}
+
+.experience-title {
+    text-align: center;
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.experience-container {
+    max-width: 1200px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 80px;
+    background: #1a1919;
+    padding: 2em 2em;
+}
+
+
+.left {
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction:  column;
+    padding: 1rem;
+    gap: 1.5rem;
+}
+
+
+.right {
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    gap: 1.5rem;
+}
+
+h2 {
+    color: white;
+    margin-bottom: 1em;
+}
+
+.yoobee,
+.connect,
+.studio,
+.other 
+{
+display: flex;
+align-items: center;
+}

@@ -1,0 +1,31 @@
+.grocery-item {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.btn-container {
+    margin-right: 0;
+    margin-inline-start: auto;
+}
+
+.edit-btn {
+    border: none;
+    font-size: 14px;
+    padding: 5px 10px;
+    color: green;
+    background-color: transparent;
+}
+
+.delete-btn {
+    border: none;
+    font-size: 14px;
+    padding: 5px 10px;
+    color: red;
+    background-color: transparent;
+    align-items: center;
+}
+
+article {
+    border: 2px solid white;
+    padding: 1em;
+}
