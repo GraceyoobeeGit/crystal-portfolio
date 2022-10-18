@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crystal-portfolio/static/css/main.bebf2c3f.css",
-    "main.js": "/crystal-portfolio/static/js/main.97ec57d1.js",
+    "main.css": "/crystal-portfolio/static/css/main.2c4e9437.css",
+    "main.js": "/crystal-portfolio/static/js/main.aa572b10.js",
     "static/media/project1.png": "/crystal-portfolio/static/media/project1.42d2da671f4cfff0c732.png",
     "static/media/project2.png": "/crystal-portfolio/static/media/project2.7b9b315b965cbb235e34.png",
     "static/media/header.jpg": "/crystal-portfolio/static/media/header.64df6f405733aee1fe05.jpg",
@@ -10,11 +10,11 @@
     "static/media/project5.png": "/crystal-portfolio/static/media/project5.4e621e2699f9d8a44c5e.png",
     "static/media/project6.png": "/crystal-portfolio/static/media/project6.f9e0218978543112885c.png",
     "index.html": "/crystal-portfolio/index.html",
-    "main.bebf2c3f.css.map": "/crystal-portfolio/static/css/main.bebf2c3f.css.map",
-    "main.97ec57d1.js.map": "/crystal-portfolio/static/js/main.97ec57d1.js.map"
+    "main.2c4e9437.css.map": "/crystal-portfolio/static/css/main.2c4e9437.css.map",
+    "main.aa572b10.js.map": "/crystal-portfolio/static/js/main.aa572b10.js.map"
   },
   "entrypoints": [
-    "static/css/main.bebf2c3f.css",
-    "static/js/main.97ec57d1.js"
+    "static/css/main.2c4e9437.css",
+    "static/js/main.aa572b10.js"
   ]
 }
