@@ -10,42 +10,42 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "Stay Safe Trip",
-        text: "Yoobee project- creating a one page website using HTML, CSS, SASS and Javascript",
+        text: "A single page web application that allows users to input information. Display accommodation options to the user based the information entered. Calculate and display either accommodation.",
         view: "https://dasio;fjeao"
     },
 
     {
         imgsrc: pro2,
         title: "Pineapple Pizza Website",
-        text: "Yoobee project- creating a one page website using HTML, CSS, SASS and Javascript",
+        text: "Fullstack CRUD application (group work-formative)",
         view: "https://dasio;fjeao"
     },
 
     {
         imgsrc: pro3,
         title: "SellCell Niche Market Website",
-        text: "Yoobee project- creating a one page website using HTML, CSS, SASS and Javascript",
+        text: "Fullstack CRUD application. C2C platforms match buyers with sellers, this type of e-commerce is made up of online classifieds or forums where individuals can buy and sell their goods. ",
         view: "https://dasio;fjeao"
     },
 
     {
         imgsrc: pro4,
         title: "Drink Menu",
-        text: "Show drink menu by category",
+        text: "Website with drink menu using React.js",
         view: "https://dasio;fjeao"
     },
 
     {
         imgsrc: pro5,
         title: "Shopping Cart",
-        text: "E-commercial app that calculates total amount and remove items from the car",
+        text: "E-commercial app that calculates total amount and remove items from the cart",
         view: "https://dasio;fjeao"
     },
 
     {
         imgsrc: pro6,
         title: "Grocery Shopping List",
-        text: "Grocery shopping app - adding, deleting and clear items",
+        text: "Small app for adding and deleting shopping list",
         view: "http://localhost:3000/grocery"
     }
 ];
